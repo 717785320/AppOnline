@@ -21,11 +21,9 @@
 
 { "name": "微信 6.7.4", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/WeChat/master/wechat6.7.4.plist", "img": "https://github.com/717785320/WeChat6.7.4/blob/master/3336519328.jpg?raw=true" },
 
-
 { "name": "百度网盘8.11.1", "title": "可抓包版", "plist": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidudisk8.11.1.plist", "img": "https://github.com/717785320/BaiduNetdisk/blob/master/11111111111111111.png?raw=true" },
    
-   { "name": "小辣椒视频", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidudisk8.11.1.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.0/1231231.png" }
-
+{ "name": "小辣椒视频", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.0/xiaolajiao.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.0/1231231.png" }
 
 ];
 
