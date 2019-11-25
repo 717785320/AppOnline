@@ -13,7 +13,7 @@
 
 { "name": "Shadowrocket-2.1.23", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/Shadowrocket-2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket.png" },
 
-{ "name": "寒梅1.3.1", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Mume/master/mume.plist", "img": "https://github.com/717785320/Mume/blob/master/mume.png?raw=true" },
+{ "name": "寒梅1.3.1", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Mume/master/mume.plist", "img": "https://github.com/717785320/Mume/blob/master/hanmei.png" },
 
 { "name": "熊猫吃短信 1.4.5", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/XiongMaoChiDuanXin/master/panda.plist", "img": "https://github.com/717785320/XiongMaoChiDuanXin/blob/master/hanmei.png" },
 
