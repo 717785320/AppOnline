@@ -37,6 +37,6 @@
 
 var apkApplist = [
 
-{ "name": "Kitsunebi 1.6.17", "title": "apk", "plist": "https://github.com/717785320/kitsunebi/releases/download/v1.6.17/kitsunebi.apk", "img": "https://github.com/717785320/kitsunebi/blob/master/20190715141450.jpg?raw=true" }
+{ "name": "Kitsunebi 1.6.17", "title": "apk", "plist": "https://github.com/717785320/kitsunebi/releases/download/v1.6.17/kitsunebi.apk", "img": "https://github.com/717785320/kitsunebi/blob/master/kitsunebi.png" }
 
 ];
