@@ -15,7 +15,7 @@
 
 { "name": "寒梅1.3.1", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Mume/master/mume.plist", "img": "https://github.com/717785320/Mume/blob/master/mume.png?raw=true" },
 
-{ "name": "熊猫吃短信 1.4.5", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/XiongMaoChiDuanXin/master/panda.plist", "img": "https://github.com/717785320/XiongMaoChiDuanXin/blob/master/20190313104156.png?raw=true" },
+{ "name": "熊猫吃短信 1.4.5", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/XiongMaoChiDuanXin/master/panda.plist", "img": "https://github.com/717785320/XiongMaoChiDuanXin/blob/master/hanmei.png" },
 
 { "name": "植物大战僵尸 ", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Plants-vs.-Zombies/master/PlantsVsZombies_v1.9.13.plist", "img": "https://github.com/717785320/Plants-vs.-Zombies_v1.9.13/blob/master/20190314150040.png?raw=true" },
 
