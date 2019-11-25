@@ -7,11 +7,11 @@
 
 { "name": "Thor 1.3.4", "title": "先安装正版再覆盖安装,否则有id验证", "plist": "https://raw.githubusercontent.com/717785320/Thor/master/thor1.3.4.plist", "img": "https://raw.githubusercontent.com/717785320/thor/master/thor.png" },
   
-{ "name": "Shadowrocket-2.1.23", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/20187111315435117.png" },
+{ "name": "Shadowrocket-2.1.23", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket.png" },
 
-{ "name": "Shadowrocket-2.1.30", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket2.1.30.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/20187111315435117.png" },
+{ "name": "Shadowrocket-2.1.30", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket2.1.30.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket.png" },
 
-{ "name": "Shadowrocket-2.1.23", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/Shadowrocket-2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/20187111315435117.png" },
+{ "name": "Shadowrocket-2.1.23", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/Shadowrocket-2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket.png" },
 
 { "name": "寒梅1.3.1", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Mume/master/mume.plist", "img": "https://github.com/717785320/Mume/blob/master/mume.png?raw=true" },
 
