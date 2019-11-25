@@ -23,7 +23,7 @@
 
 { "name": "微信 6.7.4", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/WeChat/master/wechat6.7.4.plist", "img": "https://raw.githubusercontent.com/717785320/WeChat/master/weixin.png" },
 
-{ "name": "百度网盘8.11.1", "title": "可抓包版", "plist": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidudisk8.11.1.plist", "img": "https://github.com/717785320/BaiduNetdisk/blob/master/baidu.png" },
+{ "name": "百度网盘8.11.1", "title": "可抓包版", "plist": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidudisk8.11.1.plist", "img": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidu.png" },
  
 { "name": "Price Tag", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.1/pricetag.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.1/ppp.png" },
     
@@ -37,6 +37,6 @@
 
 var apkApplist = [
 
-{ "name": "Kitsunebi 1.6.17", "title": "apk", "plist": "https://github.com/717785320/kitsunebi/releases/download/v1.6.17/kitsunebi.apk", "img": "https://github.com/717785320/kitsunebi/blob/master/kitsunebi.png" }
+{ "name": "Kitsunebi 1.6.17", "title": "apk", "plist": "https://github.com/717785320/kitsunebi/releases/download/v1.6.17/kitsunebi.apk", "img": "https://raw.githubusercontent.com/717785320/kitsunebi/master/kitsunebi.png" }
 
 ];
