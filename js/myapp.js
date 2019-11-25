@@ -5,7 +5,7 @@
 
 //{ "name": "Shadowrocket-2.1.23", "title": "shaynelegend2@outlook.com", "plist": "https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23/master/Shadowrocket-2.1.23.plist", "img": "https://github.com/717785320/shadowrocket/blob/master/20187111315435117.jpg?raw=true" },
 
-{ "name": "Thor 1.3.4", "title": "先安装正版1.3.5再覆盖安装", "plist": "https://raw.githubusercontent.com/717785320/Thor/master/thor1.3.4.plist", "img": "https://raw.githubusercontent.com/717785320/thor/master/AppIcon83.5x83.5%402x~ipad.png" },
+{ "name": "Thor 1.3.4", "title": "先安装正版1.3.5再覆盖安装", "plist": "https://raw.githubusercontent.com/717785320/Thor/master/thor1.3.4.plist", "img": "https://raw.githubusercontent.com/717785320/thor/master/thor.png" },
   
 { "name": "Shadowrocket-2.1.23", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/shadowrocket2.1.23.plist", "img": "https://raw.githubusercontent.com/717785320/MyShadowrocket/master/20187111315435117.png" },
 
