@@ -29,7 +29,7 @@
     
 { "name": "小辣椒视频", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.0/xiaolajiao.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.0/1231231.png" },
    
-{ "name": "微博9.9.4", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/%E5%BE%AE%E5%8D%9A9.9.4/9.9.4.plist", "img": "https://github.com/717785320/AppOnline/releases/download/%E5%BE%AE%E5%8D%9A9.9.4/sina_weibo_72px_1127539_easyicon.net.png" }
+{ "name": "微博9.9.4", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.2/9.9.4.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.2/sina_weibo_72px_1127539_easyicon.net.png" }
 
 ];
 
