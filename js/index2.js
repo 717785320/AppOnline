@@ -34,7 +34,7 @@ function loadMyApp() {
         html += '<tr style="border-bottom: 1px solid #DCDCDC;">'
         html += '<td style="width: 100px; border-top: none;">'
         html += '<a href="itms-services://?action=download-manifest&url=' + myApplist[i].plist + '">'
-        html += '<img src="' + myApplist[i].img + '" style="width: 80px; height: 80px; cursor: pointer;">'
+        html += '<img src="' + myApplist[i].img + '" style="width: 80px; height: 80px; cursor: pointer;border-radius:15px;">'
         html += '</a>'
 
         html += '</td>'
@@ -56,7 +56,7 @@ function loadMyApp_Apk() {
         html += '<tr style="border-bottom: 1px solid #DCDCDC;">'
         html += '<td style="width: 100px; border-top: none;">'
         html += '<a href="' + apkApplist[i].plist + '">'
-        html += '<img src="' + apkApplist[i].img + '" style="width: 80px; height: 80px; cursor: pointer;">'
+        html += '<img src="' + apkApplist[i].img + '" style="width: 80px; height: 80px; cursor: pointer;border-radius:15px;">'
         html += '</a>'
 
         html += '</td>'
