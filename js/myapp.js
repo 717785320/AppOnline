@@ -33,7 +33,7 @@
   
 { "name": "豆奶视频", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.3/dounai.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.3/logo.png" }
 
-,{ "name": "Chimera1.1.0", "title": "证书失效版", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera1.1.0.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
+,{ "name": "Chimera1.1.0", "title": "证书失效版,配合thor过滤器安装", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera1.1.0.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
 ];
 
 var apkApplist = [
