@@ -19,7 +19,7 @@
 
 { "name": "植物大战僵尸 ", "title": "4049", "plist": "https://raw.githubusercontent.com/717785320/Plants-vs.-Zombies/master/PlantsVsZombies_v1.9.13.plist", "img": "https://raw.githubusercontent.com/717785320/Plants-vs.-Zombies/master/pvz.png" },
 
-{ "name": "微信 6.6.1", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/WeChat/master/wechat6.6.1.plist", "img": "https://raw.githubusercontent.com/717785320/WeChat/master/weixin.png" },
+{ "name": "微信 6.6.1", "title": "7177(callkit版)", "plist": "https://raw.githubusercontent.com/717785320/WeChat/master/wechat6.6.1.plist", "img": "https://raw.githubusercontent.com/717785320/WeChat/master/weixin.png" },
 
 { "name": "微信 6.7.4", "title": "7177", "plist": "https://raw.githubusercontent.com/717785320/WeChat/master/wechat6.7.4.plist", "img": "https://raw.githubusercontent.com/717785320/WeChat/master/weixin.png" },
 
