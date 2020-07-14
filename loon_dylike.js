@@ -1,4 +1,4 @@
-﻿
+
 console.log("dylike脚本开始!");
 var url = $request.url;
 var headers = $request.headers;
@@ -39,6 +39,7 @@ try {
                         console.log("返回数据:" + data);
                         if (data.indexOf("手速") > -1) {
                             $notification.post('点赞已到上限!', '点赞个数:' + likeCount, data);
+                            console.log("点赞已上限,个数:" + likeCount + ";" + data);
                         }
                         else {
                             likeCount += 12;
