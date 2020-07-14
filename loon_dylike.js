@@ -30,7 +30,7 @@ try {
             console.log("请求体:" + JSON.stringify(params));
             console.log("请求体****************************************");
 
-            var likeCount = likeNum;
+            var likeCount = 0;
             function forPost() {
                 setTimeout(function () {
 
@@ -41,7 +41,12 @@ try {
                         console.log("错误:" + error);
                         console.log("返回数据:" + data);
 
-                        if (data.indexOf("手速太快了") > -1) {
+                        if (data.indexOf('"status_code":0') > -1) {
+
+                            likeCount += likeNum;
+                            forPost();
+                        }
+                        else if (data.indexOf("手速太快了") > -1) {
 
                             $notification.post('点赞已到上限!', '点赞个数:' + likeCount, data);
                             console.log("点赞已上限,个数:" + likeCount + ";" + data);
@@ -51,11 +56,7 @@ try {
                             $notification.post('请登录!', '请登录:', data);
                             console.log("请登录;" + data);
                         }
-                        else {
 
-                            likeCount += likeNum;
-                            forPost();
-                        }
                     });
                 }, 1000);
             }
