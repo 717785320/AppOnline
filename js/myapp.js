@@ -26,16 +26,13 @@
 { "name": "百度网盘8.11.1", "title": "可抓包版", "plist": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidudisk8.11.1.plist", "img": "https://raw.githubusercontent.com/717785320/BaiduNetdisk/master/baidu.png" },
  
 { "name": "Price Tag", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.1/pricetag.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.1/ppp.png" },
-    
-{ "name": "小辣椒视频", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.0/xiaolajiao.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.0/1231231.png" },
-   
+      
 { "name": "微博9.9.4", "title": "7177(越狱不闪退版)", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.2/9.9.4.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.2/weibo.png" },
   
-{ "name": "豆奶视频", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.3/dounai.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.3/logo.png" }
-
-,{ "name": "Chimera1.1.0", "title": "证书失效版,配合thor过滤器或小火箭规则安装", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera1.1.0.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
+{ "name": "Chimera1.1.0", "title": "证书失效版,配合thor过滤器或小火箭规则安装", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera1.1.0.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
 
  ,{ "name": "抖音11.8.0", "title": "最后一版点赞返回json", "plist": "https://github.com/717785320/AppOnline/releases/download/untagged-e7a56017c37ea0343349/dy11.80.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
+ 
  ];
 
 var apkApplist = [
