@@ -35,7 +35,7 @@
 
 ,{ "name": "Chimera1.1.0", "title": "证书失效版,配合thor过滤器或小火箭规则安装", "plist": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera1.1.0.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
 
- ,{ "name": "抖音11.8.0", "title": "7177", "plist": "https://github.com/717785320/AppOnline/releases/download/untagged-e7a56017c37ea0343349/dy11.80.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
+ ,{ "name": "抖音11.8.0", "title": "最后一版点赞返回json", "plist": "https://github.com/717785320/AppOnline/releases/download/untagged-e7a56017c37ea0343349/dy11.80.plist", "img": "https://github.com/717785320/AppOnline/releases/download/v1.4/Chimera.png" }
  ];
 
 var apkApplist = [
